@@ -26,14 +26,6 @@ After Completing all the required installments and the changes head over to Upti
 
 ## 🔎 Making The Project
 
-**For PC users using VS Code** -
-
-```
-git clone https://github.com/gtagamermods/admusicbot.git
-cd admusicbot
-npm install
-```
-
 After installation finishes you can use `node index.js` to start the bot.
 
 **For repl.it users** -
