@@ -2,7 +2,7 @@ const { MessageEmbed } = require("discord.js");
 const YouTubeAPI = require("simple-youtube-api");
 const { YOUTUBE_API_KEY, LOCALE } = require("../util/EvobotUtil");
 const youtube = new YouTubeAPI(YOUTUBE_API_KEY);
-const i18n = require("i18n");
+const i18n = require("i18n");  
 
 i18n.setLocale(LOCALE);
 
